@@ -1,3 +1,3 @@
-#Remove reference
+# References
 
-Creating a merge conflict to see what happens for the course
+* octocat 1 😈
